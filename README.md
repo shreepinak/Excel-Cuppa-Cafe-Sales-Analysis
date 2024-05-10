@@ -1,6 +1,6 @@
 # Excel-Cuppa-Cafe-Sales-Analysis
 
-# Dataset: Taken from Maven Analytics. [source]( Free Data Sets & Dataset Samples | Maven Analytics)
+# Dataset: Taken from Maven Analytics. [source][( Free Data Sets & Dataset Samples | Maven Analytics)](https://mavenanalytics.io/data-playground?page=4&pageSize=5)
 # Aim: To analyze retail sales of Cuppa Café shop.
 # Systematic Procedure: 
 1)	Data Cleaning by power query editor:
